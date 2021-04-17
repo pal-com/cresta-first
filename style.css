@@ -195,7 +195,7 @@ a{
 .fv{
     height: 90vh;
     background-position: center;
-    background-image: url("fv-bgi.png");
+    background-image: url("img/fv-bgi.png");
     background-size: cover;
     /* メインコピーの上下中央寄せ */
     display: flex;
